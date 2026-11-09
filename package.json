@@ -1,0 +1,16 @@
+{
+  "name": "stellic-rpc",
+  "version": "1.0.0",
+  "description": "Desktop Discord Rich Presence for stellic.cc with automatic browser detection and manual controls.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^37.2.6"
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
